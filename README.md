@@ -1,12 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishan Raj Dhami</h1>
 
-
-  <img width="400" src="[https://private-user-images.githubusercontent.com/74038190/325895973-e4f28204-ea88-4364-a321-8330c3fbde6a.gif](https://private-user-images.githubusercontent.com/74038190/325895973-e4f28204-ea88-4364-a321-8330c3fbde6a.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjI1MjA3NDcsIm5iZiI6MTc2MjUyMDQ0NywicGF0aCI6Ii83NDAzODE5MC8zMjU4OTU5NzMtZTRmMjgyMDQtZWE4OC00MzY0LWEzMjEtODMzMGMzZmJkZTZhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTA3VDEzMDA0N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU3ZTBiN2JiNDYwOTE2ZDQyMTkwZjg0MDEzNzY1ZDUzOGU2Y2RhZDg4ODU4YzM0MTZmZDEwODc2ZGU2NzVhZmEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.hbfEEegyrsQbGPkGsU73zTOxe2yZyEHEVYgAdeAcrzo)">
-
-
-
-
-
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
@@ -53,3 +46,5 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
   </a>
 </p>
+
+  <img width="400" src="[https://private-user-images.githubusercontent.com/74038190/325895973-e4f28204-ea88-4364-a321-8330c3fbde6a.gif](https://private-user-images.githubusercontent.com/74038190/325895973-e4f28204-ea88-4364-a321-8330c3fbde6a.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjI1MjA3NDcsIm5iZiI6MTc2MjUyMDQ0NywicGF0aCI6Ii83NDAzODE5MC8zMjU4OTU5NzMtZTRmMjgyMDQtZWE4OC00MzY0LWEzMjEtODMzMGMzZmJkZTZhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTA3VDEzMDA0N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU3ZTBiN2JiNDYwOTE2ZDQyMTkwZjg0MDEzNzY1ZDUzOGU2Y2RhZDg4ODU4YzM0MTZmZDEwODc2ZGU2NzVhZmEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.hbfEEegyrsQbGPkGsU73zTOxe2yZyEHEVYgAdeAcrzo)">
